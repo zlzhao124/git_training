@@ -3,6 +3,10 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 
 hello!!
 
+<<<<<<< HEAD
 third line??
 
 oh!
+=======
+change on the github.com!! 
+>>>>>>> refs/remotes/origin/master
